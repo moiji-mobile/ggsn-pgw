@@ -12,4 +12,4 @@ before_install:
 
 script:
  - qmake ggsn-pgw-all.pro CONFIG+="c++11 c++14 c++1z"
- - make
+ - make check
