@@ -1,0 +1,12 @@
+*.o
+Makefile
+.qmake.stash
+target_wrapper.sh
+moc_*
+*.moc
+*.sw?
+
+# test apps
+tests/statsd/test_statsd
+tests/stream/test_stream
+tests/utils/test_utils
