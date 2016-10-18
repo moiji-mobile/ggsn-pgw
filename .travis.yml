@@ -11,5 +11,5 @@ before_install:
  - sudo apt-get install qt5-default qttools5-dev-tools
 
 script:
- - qmake ggsn-pgw-all.pro
+ - qmake ggsn-pgw-all.pro CONFIG+="c++11 c++14 c++1z"
  - make
