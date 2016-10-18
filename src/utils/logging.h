@@ -6,6 +6,7 @@
 #include <iomanip>
 
 #include <syslog.h>
+#include <stdint.h>
 
 enum {
     LOG_GTP,
