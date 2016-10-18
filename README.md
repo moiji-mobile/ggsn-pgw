@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/moiji-mobile/ggsn-pgw.svg?branch=master)](https://travis-ci.org/moiji-mobile/ggsn-pgw)
+
 Scalable, flexible and redundant GGSN/PGW
 
 The moiji-mobile.com GGSN/PGW is a scalable, flexible and redundant GGSN/PGW
